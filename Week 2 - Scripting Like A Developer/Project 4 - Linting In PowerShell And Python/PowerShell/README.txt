@@ -1,0 +1,1 @@
+This is the same file as in Project 2, but with the recommended changes from Invoke-ScriptAnalyzer (linting.ps1).
