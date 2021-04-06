@@ -1,4 +1,4 @@
-#Commands to setup AKS Cluster
+#Script to setup AKS Cluster
 
 [CmdletBinding()]
 param (
